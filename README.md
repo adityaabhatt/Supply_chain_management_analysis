@@ -1,15 +1,15 @@
 # Multi-modal Transportation Optimization
 A project on using mathematical programming to solve multi-modal transportation cost minimization in goods delivery and supply chain management.
 ## Catalogue
-[**Project Overview**]<br>
-[**Problem Statement**](https://github.com/hzjken/multimodal-transportation-optimization/#problem-statement)<br>
-[**Assumptions**](https://github.com/hzjken/multimodal-transportation-optimization/#assumptions)<br>
-[**Dimension & Matrixing**](https://github.com/hzjken/multimodal-transportation-optimization/#dimension--matrixing)<br>
-[**Decision Variables**](https://github.com/hzjken/multimodal-transportation-optimization/#decision-variables)<br>
-[**Parameters**](https://github.com/hzjken/multimodal-transportation-optimization/#parameters)<br>
-[**Mathematical Modelling**](https://github.com/hzjken/multimodal-transportation-optimization/#mathematical-modelling)<br>
-[**Optimization Result & Solution**](https://github.com/hzjken/multimodal-transportation-optimization/#optimization-result--solution)<br>
-[**Model Use & Extension Guide**](https://github.com/hzjken/multimodal-transportation-optimization/#model-use--extension-guide)
+[**Project Overview**](https://github.com/adityaabhatt/multimodal-transportation-optimization/#problem-statement)<br>
+[**Problem Statement**](https://github.com/adityaabhatt/multimodal-transportation-optimization/#problem-statement)<br>
+[**Assumptions**](https://github.com/adityaabhatt/multimodal-transportation-optimization/#problem-statement)<br>
+[**Dimension & Matrixing**](https://github.com/adityaabhatt/multimodal-transportation-optimization/#problem-statement)<br>
+[**Decision Variables**](https://github.com/adityaabhatt/multimodal-transportation-optimization/#problem-statement)<br>
+[**Parameters**](https://github.com/adityaabhatt/multimodal-transportation-optimization/#problem-statement)<br>
+[**Mathematical Modelling**](https://github.com/adityaabhatt/multimodal-transportation-optimization/#problem-statement)<br>
+[**Optimization Result & Solution**](https://github.com/adityaabhatt/multimodal-transportation-optimization/#problem-statement)<br>
+[**Model Use & Extension Guide**](https://github.com/adityaabhatt/multimodal-transportation-optimization/#problem-statement)
 
 ## Project Overview
 In delivery services, many different transportation tools such as trucks, airplanes and ships are available. Different choices of routes and transporation tools will lead to different costs. To minimize cost, we should consider goods consolidation (Occassions when different goods share a journey together.), different transportation costs and delivery time constraints etc. This project uses mathematical programming to model such situation and solves for overall cost minimization solution. The model construction offers options of two mathematical programming frameworks, **DOcplex** and **CVXPY**.
