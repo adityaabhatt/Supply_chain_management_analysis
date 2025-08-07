@@ -1,7 +1,7 @@
 # Multi-modal Transportation Optimization
 A project on using mathematical programming to solve multi-modal transportation cost minimization in goods delivery and supply chain management.
 ## Catalogue
-[**Project Overview**](https://github.com/adityaabhatt/multimodal-transportation-optimization/#problem-statement)<br>
+[**Project Overview**](https://github.com/adityaabhatt/Supply_chain_management_analysis/edit/main/README.md#project-overview)<br>
 [**Problem Statement**](https://github.com/adityaabhatt/multimodal-transportation-optimization/#problem-statement)<br>
 [**Assumptions**](https://github.com/adityaabhatt/multimodal-transportation-optimization/#problem-statement)<br>
 [**Dimension & Matrixing**](https://github.com/adityaabhatt/multimodal-transportation-optimization/#problem-statement)<br>
